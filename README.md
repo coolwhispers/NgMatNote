@@ -1,16 +1,7 @@
 ```
     ng new [ProjectName] --routing
-```
-
-```
     npm install --save @angular/material @angular/cdk
-```
-
-```
     npm install --save @angular/animations
-```
-
-```
     npm install --save hammerjs
 ```
 
@@ -34,10 +25,9 @@ export class AppModule { }
 
 style.css
 
-```css 
+```css
     @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 ```
-
 
 main.ts
 
