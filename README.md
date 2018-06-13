@@ -1,18 +1,18 @@
-`
-ng new [ProjectName] --routing
-`
+```
+    ng new [ProjectName] --routing
+```
 
-`
-npm install --save @angular/material @angular/cdk
-`
+```
+    npm install --save @angular/material @angular/cdk
+```
 
-`
-npm install --save @angular/animations
-`
+```
+    npm install --save @angular/animations
+```
 
 app.module.ts
 
-`ts
+```ts
 @NgModule({
   declarations: [
     AppComponent
@@ -26,27 +26,27 @@ app.module.ts
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-`
+```
 
 style.css
 
-`css 
+```css 
     @angular/material/prebuilt-themes/
-`
+```
 
-`
+```
     npm install --save hammerjs
-`
+```
 
 
 main.ts
 
-`
+```ts
     import 'hammerjs';
-`
+```
 
 index.html
 
-`
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-`
+```html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+```
