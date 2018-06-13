@@ -10,6 +10,10 @@
     npm install --save @angular/animations
 ```
 
+```
+    npm install --save hammerjs
+```
+
 app.module.ts
 
 ```ts
@@ -32,10 +36,6 @@ style.css
 
 ```css 
     @angular/material/prebuilt-themes/
-```
-
-```
-    npm install --save hammerjs
 ```
 
 
