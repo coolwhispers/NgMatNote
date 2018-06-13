@@ -35,7 +35,7 @@ export class AppModule { }
 style.css
 
 ```css 
-    @angular/material/prebuilt-themes/
+    @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 ```
 
 
