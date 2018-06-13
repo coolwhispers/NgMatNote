@@ -1,7 +1,16 @@
 ```
     ng new [ProjectName] --routing
+```
+
+```
     npm install --save @angular/material @angular/cdk
+```
+
+```
     npm install --save @angular/animations
+```
+
+```
     npm install --save hammerjs
 ```
 
